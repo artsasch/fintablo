@@ -23,7 +23,7 @@ This Python script is designed to automatically process and categorize email tra
 
 ## Usage
 1. Update `email_credentials.json` with your email credentials.
-2. Run the script: `python [script_name].py`.
+2. Run the script: `python idle.py`.
 3. The script will continuously monitor the inbox for new emails.
 
 ## email_credentials.json Format
